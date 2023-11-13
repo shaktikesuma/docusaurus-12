@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Dokumen Teknis Doctor Pillar',
-  tagline: 'Disini Memuat Beberapa Dokument Teknis',
+  tagline: 'Halo, Kamu bisa lihat Technical Documentation di Doctor Pilar disini!!',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -64,10 +64,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'My Site',
+        title: 'Doctor Pillar',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Doctor Pillar',
+          src: 'img/d2d.svg',
         },
         items: [
           {
@@ -127,7 +127,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Doctor Pillar Teams.`,
       },
       prism: {
         theme: lightCodeTheme,

@@ -25,12 +25,12 @@ const FeatureList = [
   },
   
   {
-    title: 'Assist',
-    Svg: require('@site/static/img/asisst.svg').default,
+    title: 'Homecare',
+    Svg: require('@site/static/img/Homecare.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Homecare merupakan produk dari DKonsul yang memungkinkan pasien untuk mencari 
+        layanan sesuai kebutuhan dan lokasi mereka dengan lebih efisien. 
       </>
     ),
   },
